@@ -70,6 +70,7 @@ project.fragment.lock.json
 artifacts/
 
 # Visual Studio for Mac
+.vs/
 .vscode/
 .vscode-csharp/
 
@@ -106,3 +107,4 @@ artifacts/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+
