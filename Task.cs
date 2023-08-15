@@ -1,6 +1,10 @@
 public class Task
 {
     private static int _id = 1;
+    public int TaskId { get; private set; }
+    public string? TaskTitle { get; set; }
+    public string? TaskDescription { get; set; }
+    public bool TaskCompleted { get; set; }
     public Task(string title, string description)
     {
         TaskId = _id++;
@@ -8,11 +12,6 @@ public class Task
         TaskDescription = description;
         TaskCompleted = false;
     }
-    public int TaskId { get; private set; }
-    public string? TaskTitle { get; private set; }
-    public string? TaskDescription { get; private set; }
-    public bool TaskCompleted { get; set; }
-
     public override string ToString()
     {
         char marked = TaskCompleted ? 'x' : ' ';
