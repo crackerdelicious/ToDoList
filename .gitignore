@@ -1,4 +1,4 @@
 obj/
-vs/
+.vs/
 .vscode/
 bin/
