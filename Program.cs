@@ -15,6 +15,7 @@ namespace ToDoList
                 new Task("Go for a walk", "From home to park"),
                 new Task("Writing Diary", "List what have done, and plan tomorrow.")
             };
+
             int choice;
             do
             {
@@ -52,6 +53,7 @@ namespace ToDoList
                                     result = true;
                                 }
                             } while (!result);
+
                             break;
                         case 2:
                             if (tasks.Count != 0)
@@ -66,6 +68,7 @@ namespace ToDoList
                             {
                                 Console.WriteLine("\nThere's no task assigned yet.\n");
                             }
+
                             break;
                         case 3:
                             if (tasks.Count != 0)
@@ -94,13 +97,16 @@ namespace ToDoList
                             {
                                 Console.WriteLine("\nThere's no task assigned yet.\n");
                             }
+
                             break;
                         case 4:
                             Console.WriteLine("Goodbye!");
+
                             break;
                         default:
                             Console.WriteLine("You did not select any choices we have.");
                             Console.WriteLine("Please select a choice 1 - 4.");
+
                             break;
                     }
                 }
