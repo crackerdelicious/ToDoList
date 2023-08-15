@@ -1,0 +1,14 @@
+D:\C#\DummyProjects\ToDoList\bin\Debug\net7.0\ToDoList.exe
+D:\C#\DummyProjects\ToDoList\bin\Debug\net7.0\ToDoList.deps.json
+D:\C#\DummyProjects\ToDoList\bin\Debug\net7.0\ToDoList.runtimeconfig.json
+D:\C#\DummyProjects\ToDoList\bin\Debug\net7.0\ToDoList.dll
+D:\C#\DummyProjects\ToDoList\bin\Debug\net7.0\ToDoList.pdb
+D:\C#\DummyProjects\ToDoList\obj\Debug\net7.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DummyProjects\ToDoList\obj\Debug\net7.0\ToDoList.AssemblyInfoInputs.cache
+D:\C#\DummyProjects\ToDoList\obj\Debug\net7.0\ToDoList.AssemblyInfo.cs
+D:\C#\DummyProjects\ToDoList\obj\Debug\net7.0\ToDoList.csproj.CoreCompileInputs.cache
+D:\C#\DummyProjects\ToDoList\obj\Debug\net7.0\ToDoList.dll
+D:\C#\DummyProjects\ToDoList\obj\Debug\net7.0\refint\ToDoList.dll
+D:\C#\DummyProjects\ToDoList\obj\Debug\net7.0\ToDoList.pdb
+D:\C#\DummyProjects\ToDoList\obj\Debug\net7.0\ToDoList.genruntimeconfig.cache
+D:\C#\DummyProjects\ToDoList\obj\Debug\net7.0\ref\ToDoList.dll

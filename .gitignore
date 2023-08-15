@@ -1,0 +1,108 @@
+# Compiled files
+*.exe
+*.dll
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.bak
+*.cache
+
+# Visual Studio files
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.csproj
+*.csproj.user
+*.dbmdl
+*.dbproj
+
+# NuGet packages
+/packages/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.sln.dotsettings.user
+*.suo
+*.userprefs
+*.user
+
+# Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.resharper
+*.DotSettings
+*.sln.iml
+
+# Rider
+.idea/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio for Mac
+.vscode/
+.vscode-csharp/
+
+# Rider
+.idea/
+
+# User-specific files
+*.sln.dotsettings.user
+*.suo
+*.userprefs
+*.user
+
+# Rider
+.idea/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# Rider
+.idea/
+
+# User-specific files
+*.sln.dotsettings.user
+*.suo
+*.userprefs
+*.user
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
