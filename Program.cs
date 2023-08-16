@@ -68,7 +68,7 @@ namespace ToDoList
         static void AddNewTask()
         {
             Console.Write("Enter task title: ");
-            string taskTitle = Console.ReadLine();
+            string? taskTitle = Console.ReadLine();
 
             if (string.IsNullOrEmpty(taskTitle) || string.IsNullOrWhiteSpace(taskTitle))
             {
@@ -77,7 +77,7 @@ namespace ToDoList
             }
 
             Console.Write("Enter task description: ");
-            string taskDescription = Console.ReadLine();
+            string? taskDescription = Console.ReadLine();
 
             if (string.IsNullOrEmpty(taskDescription) || string.IsNullOrWhiteSpace(taskDescription))
             {
